@@ -48,6 +48,10 @@ header{
 .menu-link-cart i:hover{
 	color: #fff8ee;
 }
+
+.nav-tog{
+	color: rgb(0 0 0 / 0%)!important;
+}
 /*Header end*/
 
 /*Banner start*/
