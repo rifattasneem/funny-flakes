@@ -1,9 +1,12 @@
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
 	/*Header start*/
+	.menu-link{
+		margin-top: 20px;
+	}
 	.menu-link ul li a {
 	    padding: 6px 0 !important;
-	    text-align: end;
+	    text-align: center;
 	}
 	.menu-link-cart{
 		padding: 10px 3px 0 0 !important;
@@ -216,7 +219,7 @@
 	/*Header start*/
 	.menu-link ul li a {
 	    padding: 6px 0 !important;
-	    text-align: end;
+	    text-align: center;
 	}
 	.menu-link-cart{
 		padding: 10px 3px 0 0;
@@ -423,7 +426,7 @@
 	/*Header start*/
 	.menu-link ul li a {
 	    padding: 6px 0 !important;
-	    text-align: end;
+	    text-align: center;
 	}
 	.menu-link-cart{
 		padding: 10px 3px 0 0;
